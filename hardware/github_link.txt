@@ -1,0 +1,5 @@
+![hardware/github_link_build_filelist.bat](hardware/github_link_build_filelist.bat)  
+![hardware/Invisiblefun.com_SX1276_board_pcb.jpg](hardware/Invisiblefun.com_SX1276_board_pcb.jpg)  
+![hardware/Invisiblefun.com_SX1276_board_sch.jpg](hardware/Invisiblefun.com_SX1276_board_sch.jpg)  
+![hardware/OEM_base_board.JPG](hardware/OEM_base_board.JPG)  
+![hardware/TP4056.JPG](hardware/TP4056.JPG)  
